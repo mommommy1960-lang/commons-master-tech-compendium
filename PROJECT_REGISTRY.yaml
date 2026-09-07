@@ -59,7 +59,7 @@ repositories:
     kind: "simulation-only adversarial research"
     draft_pr: 14
     implementation: "staged"
-    verification: "hosted-blocked"
+    verification: "local-unit-pass; behavior-adapters-pending; hosted-blocked"
     sale_ready: false
   - name: "studious-computing-machine"
     kind: "simulation-only research repository"

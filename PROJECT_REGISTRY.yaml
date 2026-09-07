@@ -64,8 +64,8 @@ repositories:
   - name: "studious-computing-machine"
     kind: "simulation-only research repository"
     draft_pr: 1
-    implementation: "governance-only"
-    verification: "not-started"
+    implementation: "staged"
+    verification: "local-smoke-pass; hosted-blocked"
     sale_ready: false
   - name: "commons-master-tech-compendium"
     kind: "documentation and evidence registry"

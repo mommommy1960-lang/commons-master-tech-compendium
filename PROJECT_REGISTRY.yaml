@@ -11,13 +11,13 @@ repositories:
     kind: "authorization protocol prototype"
     draft_pr: 2
     implementation: "staged"
-    verification: "hosted-blocked"
+    verification: "local-smoke-pass; hosted-blocked"
     sale_ready: false
   - name: "CERL-Preemptive"
     kind: "consent capability prototype"
     draft_pr: 4
     implementation: "staged"
-    verification: "hosted-blocked"
+    verification: "local-smoke-pass; hosted-blocked"
     sale_ready: false
   - name: "maya-node"
     kind: "multi-component research and engineering repository"
@@ -29,13 +29,13 @@ repositories:
     kind: "user-control simulation prototype"
     draft_pr: 1
     implementation: "staged"
-    verification: "hosted-blocked"
+    verification: "local-smoke-pass; hosted-blocked"
     sale_ready: false
   - name: "mya-mprs-system"
     kind: "rescue-only robotics simulation"
     draft_pr: 1
     implementation: "staged"
-    verification: "hosted-blocked"
+    verification: "local-smoke-pass; hosted-blocked"
     sale_ready: false
   - name: "commons-companion-vessel-1"
     kind: "Miguel companion-vessel simulation"

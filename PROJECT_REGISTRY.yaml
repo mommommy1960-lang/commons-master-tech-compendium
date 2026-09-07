@@ -23,7 +23,7 @@ repositories:
     kind: "multi-component research and engineering repository"
     draft_pr: 46
     implementation: "partial"
-    verification: "hosted-blocked"
+    verification: "local-smoke-pass; hosted-blocked"
     sale_ready: false
   - name: "sage-situated-companion"
     kind: "user-control simulation prototype"

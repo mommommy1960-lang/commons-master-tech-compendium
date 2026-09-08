@@ -1,0 +1,75 @@
+schema_version: 1
+as_of: "2026-09-07"
+owner: "mommommy1960-lang"
+global_status: "pre-release"
+hosted_verification:
+  status: "blocked"
+  reason: "GitHub account locked due to billing issue; jobs start with zero steps"
+sale_authorized: false
+repositories:
+  - name: "Commons-Unified-Protocol"
+    kind: "authorization protocol prototype"
+    draft_pr: 2
+    implementation: "staged"
+    verification: "local-smoke-pass; hosted-blocked"
+    sale_ready: false
+  - name: "CERL-Preemptive"
+    kind: "consent capability prototype"
+    draft_pr: 4
+    implementation: "staged"
+    verification: "local-smoke-pass; hosted-blocked"
+    sale_ready: false
+  - name: "maya-node"
+    kind: "multi-component research and engineering repository"
+    draft_pr: 46
+    implementation: "partial"
+    verification: "local-smoke-pass; hosted-blocked"
+    sale_ready: false
+  - name: "sage-situated-companion"
+    kind: "user-control simulation prototype"
+    draft_pr: 1
+    implementation: "staged"
+    verification: "local-smoke-pass; hosted-blocked"
+    sale_ready: false
+  - name: "mya-mprs-system"
+    kind: "rescue-only robotics simulation"
+    draft_pr: 1
+    implementation: "staged"
+    verification: "local-smoke-pass; hosted-blocked"
+    sale_ready: false
+  - name: "commons-companion-vessel-1"
+    kind: "Miguel companion-vessel simulation"
+    draft_pr: 1
+    implementation: "staged"
+    verification: "local-partial; hosted-blocked"
+    sale_ready: false
+  - name: "aurora-sovereign-core"
+    kind: "Aurora decision and continuity simulation"
+    draft_pr: 1
+    implementation: "staged"
+    verification: "local-partial; hosted-blocked"
+    sale_ready: false
+  - name: "flux-drive-kernel"
+    kind: "speculative field toy-model simulation"
+    draft_pr: 1
+    implementation: "staged"
+    verification: "local-smoke-pass; hosted-blocked"
+    sale_ready: false
+  - name: "commons-sentience-sandbox"
+    kind: "simulation-only adversarial research"
+    draft_pr: 14
+    implementation: "staged"
+    verification: "local-unit-pass; behavior-adapters-pending; hosted-blocked"
+    sale_ready: false
+  - name: "studious-computing-machine"
+    kind: "simulation-only research repository"
+    draft_pr: 1
+    implementation: "staged"
+    verification: "local-smoke-pass; hosted-blocked"
+    sale_ready: false
+  - name: "commons-master-tech-compendium"
+    kind: "documentation and evidence registry"
+    draft_pr: 3
+    implementation: "in-progress"
+    verification: "hosted-blocked"
+    sale_ready: false

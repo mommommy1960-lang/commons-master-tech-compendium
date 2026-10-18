@@ -46,3 +46,13 @@ The Compendium is one node in the Commons Initiative project nervous system.
 - **Flux:** https://github.com/mommommy1960-lang/flux-drive-kernel
 
 Project status, dependencies, handoffs, and evidence boundaries are synchronized through the continuity spine.
+
+
+## Mutual collaboration boundaries
+
+Before protected exchange or shared work, read our [collaboration boundaries](https://github.com/mommommy1960-lang/commons-sentience-sandbox/blob/main/docs/continuity/PUBLIC_COLLABORATION_BOUNDARIES.md). Both parties retain their existing rights; scope, confidentiality, contributions, access and exit must be agreed for the actual engagement. Existing licenses and lawful reporting rights remain unaffected. This operating notice is not an executed contract.
+
+
+### License text needs review
+
+[LICENSE-CERL-1.0.md](LICENSE-CERL-1.0.md) currently contains a placeholder rather than complete license terms. This notice does not supply a replacement grant or revoke earlier rights. The authoritative licensing text and scope need review before additional licensing representations are made.

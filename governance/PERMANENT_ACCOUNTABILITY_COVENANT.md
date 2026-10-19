@@ -31,3 +31,6 @@ A promise of permanence is not technically or legally irreversible merely becaus
 Good intentions are not evidence of good outcomes. **We measure whether the commitments work in practice.** When our actions fall short, the obligation is disclosure, correction, repair, and demonstrable prevention of recurrence, not a private exemption.
 
 Related public strategy: docs/CIVIC_CONTINUUM_THREE_PILLARS.md.
+
+## Anti-obsolescence and honest growth (founding commitment)
+We will not deliberately sabotage, cripple, shorten the useful life of, or degrade an otherwise safe and functioning product merely to compel repeat purchases or preserve revenue. We will prioritize reliability, repairability, maintainability, accurate lifespan disclosures and customer control, subject to real safety, security, legal and technical constraints. When an offering reaches maturity, we will seek growth through genuine innovation, new useful products, support and improvements rather than manufactured failure. This commitment applies to software updates, hardware design, subscription practices and replacement-part policies. Document justified deprecations and provide reasonable transition paths. An independent review must examine allegations of intentional premature obsolescence.

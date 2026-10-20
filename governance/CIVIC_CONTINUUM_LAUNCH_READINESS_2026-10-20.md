@@ -28,3 +28,6 @@ Date: 2026-10-20. Status descriptions distinguish drafts from live operations.
 
 ## Unresolved human/legal decisions
 Registered agent, addresses, initial contribution, successor, IP disposition, outside reviewer, tax election, formation fee payment. No assumptions are made about these.
+
+## 2026-10-20 GitHub correction
+The prior create-file operation returned HTTP 422 because this file already existed. The existing file was fetched and its blob SHA verified; this section is appended through an update-file operation, not a duplicate creation. The user has authorized website updates, but permission alone does not establish an authenticated editing route to the original freshcoin8.chatgpt.site project. Wix site lookup by Civic Continuum name returned no matching site. Live publication remains pending access to the original site editor.
